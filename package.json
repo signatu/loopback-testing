@@ -14,6 +14,7 @@
   "dependencies": {
     "async": "~0.9.0",
     "chai": "^1.9.2",
+    "loopback-datasource-juggler": "^2",
     "mocha": "^3",
     "supertest": "^1.2.0"
   },
